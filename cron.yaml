@@ -1,0 +1,4 @@
+cron:
+- description: get wave from Cameri
+  url: /wave
+  schedule: every 1 hours
